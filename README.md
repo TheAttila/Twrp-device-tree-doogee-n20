@@ -3,7 +3,7 @@ Device tree for the DOOGEE N20 (Y9Plus)
 
 | Basic                   | Spec Sheet                                                                                                                     |
 | -----------------------:|:------------------------------------------------------------------------------------------------------------------------------ |
-| Chipset                 | Mediatek Helio P23 (Mt6763 Cortex-A53)                                                                                         |
+| Chipset                 | Mediatek Helio P23 (MT6763 Cortex-A53)                                                                                         |
 | GPU                     | Mali-G71 MP2                                                                                                                   |
 | Memory                  | 4GB RAM                                                                                                                        |
 | Android Version         | 9.0                                                                                                                            |
