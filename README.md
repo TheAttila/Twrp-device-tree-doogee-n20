@@ -1,0 +1,1 @@
+# Twrp-device-tree-doogee-n20
