@@ -11,3 +11,5 @@ Device tree for the DOOGEE N20 (Y9Plus)
 | Battery                 | 4350 mAh                                                                                                                       |
 | Display                 | 6.3" FHD+ Waterdrop Screen                                                                                                     |
 | Camera                  | 16.0MP+8.0MP+ 8.0MP f/2.0                                                                                                      | 
+
+![Device Picture](https://www.gizmochina.com/product/doogee-n20/)
